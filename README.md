@@ -2,7 +2,8 @@
 
 **Portfolio** is a well-designed and fully functional portfolio website that is built with React.js
 and Three.js. It is a fully responsive website that works well on all devices.
-<img width="1901" height="970" alt="image" src="https://github.com/user-attachments/assets/6deacd30-97df-48b3-bc9b-5d9d88974db7" />
+<img width="1903" height="973" alt="image" src="https://github.com/user-attachments/assets/2517ce91-9869-4fd5-8a26-8982fc9ec10e" />
+
 
 
 <details><summary><b>Folder Structure</b></summary>
